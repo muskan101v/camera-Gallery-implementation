@@ -1,0 +1,7 @@
+{
+  "name": "camera-gallery-implementation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
