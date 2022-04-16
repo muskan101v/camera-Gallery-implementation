@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "camera-gallery-implementation",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
